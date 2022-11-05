@@ -50,6 +50,18 @@
 &repo=DonorsChoose&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
 		</td>
       	</tr>
+	<tr>
+      		<td>
+			 <a href="https://github.com/mohan143341/Predictive_Maintenance">
+			<b>Predictive_Maintenance</b></a>
+		</td>
+      		<td>
+			<a href="https://github.com/Predictive_Maintenance
+/DonorsChoose">
+			<img src="https://github-readme-stats.vercel.app/api/pin/?username=mohan143341
+&repo=Predictive_Maintenance&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
+		</td>
+      	</tr>								       
 	
     </tbody>
   </table>
