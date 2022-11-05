@@ -50,52 +50,7 @@
 &repo=DonorsChoose&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
 		</td>
       	</tr>
-	<tr>
-      		<td>
-			<a href="https://github.com/brunocampos01/porto-seguro-safe-driver-prediction">
-			<b>Porto Seguro Safe Driver Prediction</b></a>
-		</td>
-      		<td>
-			<a href="https://github.com/brunocampos01/porto-seguro-safe-driver-prediction">
-			<img src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=porto-seguro-safe-driver-prediction&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
-      	</tr>
-	<tr>
-      		<td>
-			<a href="https://github.com/brunocampos01/predict-which-customers-a-call-center-should-contact">
-			<b>Predict Which Customers a Call Center Should Contact</b></a>
-		</td>
-      		<td>
-			<a href="https://github.com/brunocampos01/predict-which-customers-a-call-center-should-contact">
-			<img src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=predict-which-customers-a-call-center-should-contact&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
-      	</tr>
-	</tr>
-	    	<tr>
-      		<td>
-			<a href="https://github.com/brunocampos01/predicting-retail-churn-with-azure-ml-studio">
-			<b>Predicting Retail Churn with Azure ML Studio</b></a>
-		</td>
-      		<td>
-			<a href="https://github.com/brunocampos01/predicting-retail-churn-with-azure-ml-studio">
-			<img src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=predicting-retail-churn-with-azure-ml-studio&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
-      	</tr>
-	<tr>
-      		<td>
-			<a href="https://github.com/brunocampos01/federated-learning-for-text-generation">
-			<b>Federated Learning for Text Generation</b></a>
-		</td>
-      		<td>
-			<a href="https://github.com/brunocampos01/federated-learning-for-text-generation">
-			<img src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=federated-learning-for-text-generation&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
-      	</tr>
-	<tr>
-      		<td>
-			<a href="https://github.com/brunocampos01/allstate-claims-severity">
-			<b>Allstate Claims Severity</b></a>
-		</td>
-      		<td>
-			<a href="https://github.com/brunocampos01/allstate-claims-severity">
-			<img src="https://github-readme-stats.vercel.app/api/pin/?username=brunocampos01&repo=allstate-claims-severity&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
-      	</tr>
+	
     </tbody>
   </table>
   <br />
@@ -114,28 +69,25 @@
 	    <li><b>Code Editor:</b> VSCode + Pycharm</li>
 	    <li><b>To Stay Updated:</b> Dev.to, Medium, Linkedin and Twitter.</li>
 	    <br />
-	⚛️ Checkout My Personal Configrations <a href="https://github.com/brunocampos01/home-sweet-home">Here</a>.
+	⚛️ Checkout My Personal Configrations <a href="https://github.com/mohan143341/home-sweet-home">Here</a>.
 	</ul>	
 </details> -->
 
 
 <!-- <h4 align="center">
-  <a href="https://github.com/brunocampos01?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+  <a href="https://github.com/mohan143341?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
  -->
  
 ---
 
 <p  align="center">
-	<a href="mailto:brunocampos01@gmail.com" target="_blank"><img src="https://github.com/mohan143341/MohanProfile/tree/main/images/email.png" width="30">
+	<a href="mailto:pmohanreddy23@gmail.com" target="_blank"><img src="https://github.com/mohan143341/MohanProfile/tree/main/images/email.png" width="30">
 	</a>
-	<a href="https://stackoverflow.com/users/8329698/bruno-campos" target="_blank"><img src="https://github.com/mohan143341/MohanProfile/tree/main/images/stackoverflow.png" width="30">
+	
+	<a href="https://www.linkedin.com/in/mohan-reddy-0366a0141/" target="_blank"><img src="https://github.com/mohan143341/MohanProfile/blob/main/images/linkedin.png" width="30">
 	</a>
-	<a href="https://www.linkedin.com/in/brunocampos01" target="_blank"><img src="https://github.com/brunocampos01/brunocampos01/blob/main/images/linkedin.png" width="30">
-	</a>
-	<a href="https://github.com/brunocampos01" target="_blank"><img src="https://github.com/brunocampos01/brunocampos01/blob/main/images/github.png" width="30"></a>
-	<a href="https://profile.codersrank.io/user/brunocampos01" target="_blank"><img src="https://img.icons8.com/material/24/000000/source-code--v1.png" width="30">
-	</a>
-	<a href="https://medium.com/@brunocampos01" target="_blank"><img src="https://github.com/brunocampos01/brunocampos01/blob/main/images/medium.png" width="30">
-	</a>
+	<a href="https://github.com/mohan143341" target="_blank"><img src="https://github.com/mohan143341/MohanProfile/blob/main/images/github.png" width="30"></a>
+	
+	
 </p>
