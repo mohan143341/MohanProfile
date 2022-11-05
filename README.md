@@ -53,7 +53,7 @@
 	<tr>
       		<td>
 			 <a href="https://github.com/mohan143341/Predictive_Maintenance">
-			<b>Predictive_Maintenance</b></a>
+			<b>Predictive Maintenance</b></a>
 		</td>
       		<td>
 			<a href="https://github.com/Predictive_Maintenance>
@@ -82,7 +82,29 @@
 			<img src="https://github-readme-stats.vercel.app/api/pin/?username=mohan143341
 &repo=MalwareDetection&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
 		</td>
-      	</tr>		
+      	</tr>
+	<tr>
+      		<td>
+			 <a href="https://github.com/mohan143341/Instagram_friend_recomendation">
+			<b>Instagram Friend Recomendation</b></a>
+		</td>
+      		<td>
+			<a href="https://github.com/Instagram_friend_recomendation>
+			<img src="https://github-readme-stats.vercel.app/api/pin/?username=mohan143341
+&repo=Instagram_friend_recomendation&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
+		</td>
+      	</tr>
+	<tr>
+      		<td>
+			 <a href="https://github.com/mohan143341/TimeseriesForecasting">
+			<b>TimeseriesForecasting</b></a>
+		</td>
+      		<td>
+			<a href="https://github.com/TimeseriesForecasting>
+			<img src="https://github-readme-stats.vercel.app/api/pin/?username=mohan143341
+&repo=TimeseriesForecasting&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
+		</td>
+      	</tr>
     </tbody>
   </table>
   <br />
