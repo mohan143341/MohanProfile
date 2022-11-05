@@ -12,14 +12,14 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=035DC5&lines=Data+Scientist;Machine+Learing+Engineer;%2B4+years+of+coding+experience;Always+learninig+new+things)](https://git.io/typing-svg)
 
 <details>	
-  <summary><a href="#"><img src="https://github.com/mohan143341/MohanGithubProfile/tree/main/images/icon_github.png"/></a><b> Github Profile Stats</b></summary>
+  <summary><a href="#"><img src="https://github.com/mohan143341/MohanProfile/blob/main/images/icon_github.png"/></a><b> Github Profile Stats</b></summary>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohan143341&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=79ff97&icon_color=79ff97" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohan143341&exclude_repo=machine-learning&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=79ff97&icon_color=79ff97"/>
   <br/>
 </details>
 
 <details>	
-  <summary><a href="#"><img src="https://github.com/mohan143341/MohanProfile/tree/main/images/icon_minimum-value.png"/></a><b> Contribuition Time Series</b></summary>
+  <summary><a href="#"><img src="https://github.com/mohan143341/MohanProfile/blob/main/images/icon_minimum-value.png"/></a><b> Contribuition Time Series</b></summary>
   <img src="https://activity-graph.herokuapp.com/graph?username=mohan143341&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </details>
 
