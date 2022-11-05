@@ -9,7 +9,7 @@
   <a href="https://readme-typing-svg.herokuapp.com?color=0353B1&lines=Software+Engineer;8%2B+years+of+coding+experience;Always+learninig+new+things)]></a>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=035DC5&lines=Data+Scientist;%2B4+years+of+coding+experience;Always+learninig+new+things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=035DC5&lines=Data+Scientist;Machine Learing Engineer;%2B4+years+of+coding+experience;Always+learninig+new+things)](https://git.io/typing-svg)
 
 <details>	
   <summary><a href="#"><img src="https://github.com/mohan143341/MohanProfile/tree/main/images/icon_github.png"/></a><b> Github Profile Stats</b></summary>
