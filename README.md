@@ -1,9 +1,9 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=MohanReddy.visitor-badgee&color=green&style=flat-square">
   
-<!-- <a href="https://hits.seeyoufarm.com"><img align="right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbrunocampos01%2Fbrunocampos01&count_bg=%233D6BC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false"/></a> -->
+<!-- <a href="https://hits.seeyoufarm.com"><img align="right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmohan143341%2Fmohan143341&count_bg=%233D6BC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false"/></a> -->
 
 ## Hey There, I'm Mohan Reddy Panga
-<!-- <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=brunocampos01&badges=3&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px" width="35%" align="right"> -->
+<!-- <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=mohan143341&badges=3&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px" width="35%" align="right"> -->
  
 <p align="left">
   <a href="https://readme-typing-svg.herokuapp.com?color=0353B1&lines=Software+Engineer;8%2B+years+of+coding+experience;Always+learninig+new+things)]></a>
@@ -13,14 +13,14 @@
 
 <details>	
   <summary><a href="#"><img src="https://github.com/mohan143341/MohanProfile/tree/main/images/icon_github.png"/></a><b> Github Profile Stats</b></summary>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunocampos01&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=79ff97&icon_color=79ff97" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunocampos01&exclude_repo=machine-learning&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=79ff97&icon_color=79ff97"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohan143341&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=79ff97&icon_color=79ff97" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohan143341&exclude_repo=machine-learning&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=79ff97&icon_color=79ff97"/>
   <br/>
 </details>
 
 <details>	
   <summary><a href="#"><img src="https://github.com/mohan143341/MohanProfile/tree/main/images/icon_minimum-value.png"/></a><b> Contribuition Time Series</b></summary>
-  <img src="https://activity-graph.herokuapp.com/graph?username=brunocampos01&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=mohan143341&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </details>
 
 <br/>
