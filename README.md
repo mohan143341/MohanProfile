@@ -25,9 +25,9 @@
 
 <br/>
 
-### <a href="#"><img src="https://github.com/mohan143341/MohanProfile/tree/main/images/icon_open-source.png"/></a> My Open Souce Projects
+### <a href="#"><img src="https://github.com/mohan143341/MohanProfile/blob/main/images/icon_open-source.png"/></a> My Open Souce Projects
 <details>
-  <summary><b> <a href="#"><img src="https://github.com/mohan143341/MohanProfile/tree/main/images/icon_graduation.png"/></a> Academic Projects</b></summary>
+  <summary><b> <a href="#"><img src="https://github.com/mohan143341/MohanProfile/blob/main/images/icon_graduation.png"/></a> Academic Projects</b></summary>
   <table>
     <thead align="center">
       <tr border: none;>
