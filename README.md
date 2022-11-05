@@ -69,7 +69,7 @@
 	    <li><b>Code Editor:</b> VSCode + Pycharm</li>
 	    <li><b>To Stay Updated:</b> Dev.to, Medium, Linkedin and Twitter.</li>
 	    <br />
-	⚛️ Checkout My Personal Configrations <a href="https://github.com/mohan143341/home-sweet-home">Here</a>.
+	⚛️ Checkout My Personal Configrations <a href="https://github.com/brunocampos01/home-sweet-home">Here</a>.
 	</ul>	
 </details> -->
 
