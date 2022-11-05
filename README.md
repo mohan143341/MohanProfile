@@ -82,7 +82,7 @@
 ---
 
 <p  align="center">
-	<a href="mailto:pmohanreddy23@gmail.com" target="_blank"><img src="https://github.com/mohan143341/MohanProfile/tree/main/images/email.png" width="30">
+	<a href="mailto:pmohanreddy23@gmail.com" target="_blank"><img src="https://github.com/mohan143341/MohanProfile/blob/main/images/email.png"  width="30">
 	</a>
 	<a href="https://www.linkedin.com/in/mohan-reddy-0366a0141/" target="_blank"><img src="https://github.com/mohan143341/MohanProfile/blob/main/images/linkedin.png" width="30">
 	</a>
