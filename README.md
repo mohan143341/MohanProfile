@@ -61,31 +61,28 @@
 &repo=Predictive_Maintenance&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
 		</td>
       	</tr>	
-	</tr>
 	<tr>
       		<td>
-			 <a href="https://github.com/mohan143341/Predictive_Maintenance">
-			<b>Predictive_Maintenance</b></a>
+			 <a href="https://github.com/mohan143341/Product_Detection">
+			<b> Product Detection</b></a>
 		</td>
       		<td>
-			<a href="https://github.com/Predictive_Maintenance>
+			<a href="https://github.com/Product_Detection>
 			<img src="https://github-readme-stats.vercel.app/api/pin/?username=mohan143341
-&repo=Predictive_Maintenance&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
+&repo=Product_Detection&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
 		</td>
       	</tr>		
-	</tr>
 	<tr>
       		<td>
-			 <a href="https://github.com/mohan143341/Predictive_Maintenance">
-			<b>Predictive_Maintenance</b></a>
+			 <a href="https://github.com/mohan143341/MalwareDetection">
+			<b>MalwareDetection</b></a>
 		</td>
       		<td>
-			<a href="https://github.com/Predictive_Maintenance>
+			<a href="https://github.com/MalwareDetection>
 			<img src="https://github-readme-stats.vercel.app/api/pin/?username=mohan143341
-&repo=Predictive_Maintenance&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
+&repo=MalwareDetection&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
 		</td>
       	</tr>		
-	
     </tbody>
   </table>
   <br />
